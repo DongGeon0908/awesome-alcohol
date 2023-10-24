@@ -1,13 +1,9 @@
-# 극락알콜
-> 극락알콜..
-
-<br>
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=극락알콜&fontSize=80&animation=twinkling&fontColor=auto)
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongGeon0908%2Fawesome-alcohol&count_bg=%23E58ECE&title_bg=%23BA2020&icon=&icon_color=%23E7E7E7&title=%EA%B7%B9%EB%9D%BD%EC%95%8C%EC%BD%9C+View%7E&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
+<br>
 
 
 ### 신도림역
